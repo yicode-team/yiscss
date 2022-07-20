@@ -1,0 +1,6 @@
+@use '../yiscss';
+
+body {
+    font-size: yiscss.plus(3px, 4px);
+    width: yiscss.pi();
+}

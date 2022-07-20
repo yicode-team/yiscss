@@ -1,0 +1,9 @@
+@use 'sass:math';
+
+@function plus($x, $y) {
+    @return $x + $y;
+}
+
+@function pi() {
+    @return math.$pi;
+}
